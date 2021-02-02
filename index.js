@@ -1,6 +1,7 @@
 
-function add(a,b) {
-  console.log (a + b);
+function add(a, b) {
+  add = (a + b);
+  return add 
 }
 
 function subtract() {
@@ -18,3 +19,4 @@ function divide() {
 function increment() {
   a += n;
 }
+
