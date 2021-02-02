@@ -14,8 +14,9 @@ function multiply(a, b) {
   return multiply
 }
 
-function divide() {
-  a / b;
+function divide(a, b) {
+  divide = (a / b);
+  return divide
 }
 
 function increment() {
