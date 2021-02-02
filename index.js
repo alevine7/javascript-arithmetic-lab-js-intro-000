@@ -9,8 +9,9 @@ function subtract(a, b) {
   return subtract
 }
 
-function multiply() {
-  a * b;
+function multiply(a, b) {
+  multiply = (a * b);
+  return multiply
 }
 
 function divide() {
