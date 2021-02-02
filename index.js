@@ -13,3 +13,7 @@ function multiply() {
 function divide() {
   a / b;
 }
+
+function increment() {
+  n +=;
+}
