@@ -23,3 +23,8 @@ function increment(a) {
   var increment = a += 1;
   return increment
 }
+
+function decrement(n) {
+  var decrement = n -= 1;
+  return decrement
+}
