@@ -19,6 +19,7 @@ function divide(a, b) {
   return divide
 }
 
-function increment() {
-  a += n;
+function increment(n) {
+  increment = n+=;
+  return increment
 }
