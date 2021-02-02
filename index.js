@@ -19,7 +19,7 @@ function divide(a, b) {
   return divide
 }
 
-function increment(n) {
-  increment = n+=;
+function increment(a) {
+  var increment = a += 1;
   return increment
 }
